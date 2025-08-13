@@ -2,7 +2,7 @@
 
 A comprehensive Ruby on Rails application featuring over 1000 questions and answers covering all aspects of Ruby on Rails development. This educational resource is organized by topic and designed to help developers master Rails concepts from beginner to advanced levels.
 
-## 🚀 Features
+## Features
 
 - **18 Topic Categories**: From Core Concepts to Advanced Performance & Scaling
 - **1000+ Q&A Pairs**: Comprehensive coverage of Rails fundamentals
@@ -10,7 +10,7 @@ A comprehensive Ruby on Rails application featuring over 1000 questions and answ
 - **Interactive Interface**: Accordion-style Q&A display for better readability
 - **Mobile Friendly**: Fully responsive design that works on all devices
 
-## 📋 Topics Covered
+## Topics Covered
 
 - Core Concepts (Story, Architecture, MVC, Routes)
 - Setup & Tools (Installation, Scaffolding, Console, Gems)
@@ -30,7 +30,7 @@ A comprehensive Ruby on Rails application featuring over 1000 questions and answ
 - Gems & Extensions
 - Internationalization (I18n)
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Ruby**: 3.2.2
 - **Rails**: 8.0.2
@@ -38,7 +38,7 @@ A comprehensive Ruby on Rails application featuring over 1000 questions and answ
 - **Frontend**: Tailwind CSS, Stimulus, Hotwire
 - **Server**: Puma
 
-## 📦 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 
