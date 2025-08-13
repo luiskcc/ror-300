@@ -1,7 +1,7 @@
-# Okay I want to create a ruby on rails site called RUBY ON RAILS +1000. 
+# Ruby on rails site called RUBY ON RAILS +1000. 
 Which has over 1000 questions and answers about Ruby on Rails fundamentals
 
-Here is the Structure
+Structure
 
 Category	                        Topics                                                                          No Questions
 Core Concepts	            Story, Architecture, MVC (Models, Views, Controllers), Routes                           180
@@ -29,4 +29,3 @@ TOTAL 1000
 
 
 
-# Create and add all of the 180 questions for Ruby and Uby on Rails Core Concepts(Story, Architecture, MVC (Models, Views, Controllers), Routes ) in the view of coreconcepts 
