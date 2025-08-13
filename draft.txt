@@ -1,0 +1,32 @@
+# Okay I want to create a ruby on rails site called RUBY ON RAILS +1000. 
+Which has over 1000 questions and answers about Ruby on Rails fundamentals
+
+Here is the Structure
+
+Category	                        Topics                                                                          No Questions
+Core Concepts	            Story, Architecture, MVC (Models, Views, Controllers), Routes                           180
+Setup & Tools	            Setup, Scaffolding, Console, Gems, Packages, Bin, Environments, Heroku                  120
+Rails Versions	            Rails 7 - 8                                                                             160
+Frontend Integration	    Tailwind.css, Stimulus, Hotwire, Webpacker/JavaScript Integration, React                90
+Authentication	            Devise                                                                                  90
+Testing	                    RSpec, Minitest                                                                         65
+Security	                Cybersecurity                                                                           45
+Data Layer	                Active Record Associations, Validations, Scopes/Lambdas                                 45
+Background & Jobs	        Active Job, Background Processing, Sidekiq/Resque (optional)                            40
+File Management	            Active Storage                                                                          60
+Service Objects	Services Pattern (organizing business logic)                                                        10
+Tasks Automation	        Rake Tasks, Seeds Management                                                            10
+Code Organization	        Concerns, Decorators, Modularization                                                    10
+API & REST	RESTful Architecture, API Building (JSON APIs)                                                          10
+Real-Time Features	        Action Cable, WebSockets, Redis Integration                                             10
+Performance & Scaling	    Caching, Performance Optimization, Scaling Basics                                       10
+Gems & Extensions	        Creating/Managing Gems, Plugins, Monkey Patching                                        5
+Internationalization	    I18n                                                                                    5
+TOTAL 1000
+
+
+#All the concepts should be clickable from the main index page and redirect to each concept
+
+
+
+# Create and add all of the 180 questions for Ruby and Uby on Rails Core Concepts(Story, Architecture, MVC (Models, Views, Controllers), Routes ) in the view of coreconcepts 
